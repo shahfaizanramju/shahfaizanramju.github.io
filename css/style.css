@@ -234,8 +234,9 @@ button {
     background-image: url(../images/1728630306578.jpg);
     height: 130vh;
     background-size:100%;
+/* background-size: cover; */
     background-repeat: no-repeat;
-}
+`} 
 
 .header_bg {
     background: #000;
@@ -325,7 +326,7 @@ button {
     float: left;
     padding: 0px 0px;
     background-color: #b0b3b2;
-    color: #252f2d;
+    /* color: #252f2d; */
     border-radius: 5px;
     font-size: 18px;
     margin-right: 5px;
@@ -1071,3 +1072,4 @@ textarea#comment.massage-bt::placeholder {
 .margin_90{
     margin: 90px 0px;
 }
+
