@@ -234,7 +234,7 @@ button {
     background-image: url(../images/1728630306578.jpg);
     height: 130vh;
     background-size:100%;
-/* background-size: cover; */
+    background-size: cover;
     background-repeat: no-repeat;
 } 
 
